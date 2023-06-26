@@ -28,4 +28,4 @@ for subdir in subdirs:
         md5_filename = f'{zip_filename}.md5'
 
     with open(md5_filename, 'w') as md5file:
-        md5file.write(f'{theme_md5}\n')
+        md5file.write(theme_md5)
