@@ -3,6 +3,7 @@ System themes for BitLCD
 
 System names are as follows:
 
+```
 movies - Movies
 music - Music
 pictures - Pictures
@@ -101,6 +102,7 @@ vectrex - Vectrex
 virtualboy - Virtual Boy
 wolfenstein3d - Wolfenstein 3D
 wswan - WonderSwan
+```
 wswanc - WonderSwan Color
 x1 - Sharp X1
 x68000 - Sharp X68000
