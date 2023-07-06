@@ -102,10 +102,10 @@ vectrex - Vectrex
 virtualboy - Virtual Boy
 wolfenstein3d - Wolfenstein 3D
 wswan - WonderSwan
-```
 wswanc - WonderSwan Color
 x1 - Sharp X1
 x68000 - Sharp X68000
 zx81 - ZX81
 zxspectrum - ZXSpectrum
 odyssey2 - Odyssey2
+```
