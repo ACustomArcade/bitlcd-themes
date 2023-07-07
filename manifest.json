@@ -1,0 +1,12 @@
+{
+    "themes": {
+        "rcade-carbon": {
+            "name": "R-Cade Carbon",
+            "author": "MrRobot108",
+            "version": "1.1",
+            "preview": "https://raw.githubusercontent.com/ACustomArcade/bitlcd-themes/main/previews/rcade-carbon.jpg",
+            "download_url": "https://github.com/ACustomArcade/bitlcd-themes/releases/download/v1.0/bitlcd-rcade-carbon.zip",
+            "checksum": "41fda583d6f6b40bb0577fcb1f46de9d"
+        }
+    }
+}
